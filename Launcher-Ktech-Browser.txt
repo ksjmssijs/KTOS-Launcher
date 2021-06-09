@@ -51,10 +51,10 @@
     <i class="fa fa-caret-down"></i>
   </button>
   <div class="dropdown-content">
-    <a href="https://sites.google.com/view/ktech1/home">K.Tech OS (Browser)</a>
+    <a href="ktech.games">K.Tech OS (Browser)</a>
   </div>
 </div>
-<p> © K.Tech 2021 Update </p>
+<p> © K.Tech Latest Update </p>
 
 </body>
 </html>
